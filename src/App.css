@@ -1,6 +1,30 @@
-.text-display {
+.App {
+  text-align: center;
+  padding: 50px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 20px;
+}
+
+.font-display {
   margin-top: 20px;
+}
+
+.font-name {
+  margin-bottom: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.text-display {
   font-size: 20px;
+  margin-bottom: 20px;
 }
 
 .roboto {
@@ -14,3 +38,12 @@
 .times {
   font-family: 'Times New Roman', serif;
 }
+
+.montserrat {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.opensans {
+  font-family: 'Open Sans', sans-serif;
+}
+
