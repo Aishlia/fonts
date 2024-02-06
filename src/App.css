@@ -1,0 +1,16 @@
+.text-display {
+  margin-top: 20px;
+  font-size: 20px;
+}
+
+.roboto {
+  font-family: 'Roboto', sans-serif;
+}
+
+.arial {
+  font-family: 'Arial', sans-serif;
+}
+
+.times {
+  font-family: 'Times New Roman', serif;
+}
